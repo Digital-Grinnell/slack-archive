@@ -1,3 +1,8 @@
+# Slack-Archive Notes
+
+The Slack archives that I'm creating reside in smb://storage/library/mcfatem/slack-archives. 
+
+
 # Export your Slack workspace as static HTML
 
 Alright, so you want to export all your messages on Slack. You want them in a format that you
